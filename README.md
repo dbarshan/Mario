@@ -1,2 +1,2 @@
 # Mario
-NES Super Mario Brother Game
+Super Mario Brothers Game
