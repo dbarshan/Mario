@@ -1,0 +1,14 @@
+Trying to open /usr/local/include/allegro5/base.h.
+Trying to open /usr/include/allegro5/base.h.
+Found Allegro header at /usr/include/allegro5/base.h
+cargo:rustc-cfg=allegro_5_2_0
+cargo:rustc-cfg=allegro_5_2_1
+cargo:rustc-cfg=allegro_5_2_2
+cargo:rustc-cfg=allegro_5_2_3
+cargo:rustc-cfg=allegro_5_2_4
+cargo:rustc-cfg=allegro_5_2_5
+cargo:rustc-cfg=allegro_5_2_6
+cargo:rustc-cfg=allegro_5_2_7
+cargo:sub_version=2
+cargo:wip_version=7
+cargo:rustc-flags=-l allegro
